@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding:0;
+
+
+}
+h1{
+    text-align: center;
+    background-color: rgb(192, 227, 255);
+}
+body{
+
+   line-height: 1.6em;
+   background-color:white;
+   text-decoration:none;
+
+ 
+}
+
+.first ul{
+    background-color: grey;
+    font-weight:bolder;
+    color:white;
+    padding:20px;
+    overflow:hidden;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
+    text-decoration: none; 
+    list-style: none;
+
+}
+.first a:hover
+{
+   background-color:red; 
+
+
+  
+}
+.first a:visited
+{
+   background-color:orange; 
+
+  
+}
+
+.first li
+{
+ float:left;
+ background-color: grey;
+ margin:10px;
+
+ display:flex;
+
+}
